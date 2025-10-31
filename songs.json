@@ -29,6 +29,12 @@
       "artist": "WPKG TEAM",
       "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/bombelek.mp3",
       "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/bombelek.jpg"
+    },
+    {
+      "title": "JA MAM NAJWIEKSZA MASE",
+      "artist": "Igor A.",
+      "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/NajwiekszaMasa.mp3",
+      "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/NajwiekszaMasa.jpg"
     }
   ]
 }
