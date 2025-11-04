@@ -35,6 +35,12 @@
       "artist": "Dycha",
       "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/NajwiekszaMasa.mp3",
       "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/NajwiekszaMasa.jpg"
+    },
+    {
+      "title": "Zielone",
+      "artist": "Palion",
+      "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/ZIELONE.mp3",
+      "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/ZIELONE.jpg"
     }
   ]
 }
