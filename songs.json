@@ -41,6 +41,12 @@
       "artist": "Palion",
       "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/ZIELONE.mp3",
       "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/ZIELONE.jpg"
+    },
+    {
+      "title": "Cayo Perico",
+      "artist": "Atherton",
+      "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/CayoPerico.mp3",
+      "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/CayoPerico.jpg"
     }
   ]
 }
