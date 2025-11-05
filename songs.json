@@ -65,6 +65,12 @@
       "artist": "Tomasz Pieniadz",
       "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/pidori.mp3",
       "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/pidori.jpg"
+    },
+    {
+      "title": "PO PI PO",
+      "artist": "Hatsune Miku",
+      "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/popipo.mp3",
+      "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/popipo.jpg"
     }
   ]
 }
