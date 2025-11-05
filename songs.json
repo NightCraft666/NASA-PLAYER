@@ -83,6 +83,12 @@
       "artist": "ANGUISH",
       "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/wefallapart.mp3",
       "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/wefallapart.jpg"
+    },
+    {
+      "title": "Bombileusz Edition",
+      "artist": "Jesiotr",
+      "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/bombileusz.mp3",
+      "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/bombileusz.jpg"
     }
   ]
 }
