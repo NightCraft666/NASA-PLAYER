@@ -47,6 +47,12 @@
       "artist": "Atherton",
       "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/CayoPerico.mp3",
       "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/CayoPerico.jpg"
+    },
+    {
+      "title": "Pij wojanka do bialego ranka",
+      "artist": "Wojan",
+      "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/pijwojanka.mp3",
+      "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/pijwojanka.jpg"
     }
   ]
 }
