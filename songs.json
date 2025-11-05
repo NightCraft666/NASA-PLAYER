@@ -71,6 +71,12 @@
       "artist": "Hatsune Miku",
       "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/popipo.mp3",
       "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/popipo.jpg"
+    },
+    {
+      "title": "Nas Ne Dogonyat (HardStyle)",
+      "artist": "DJ SPIZDIL",
+      "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/nasnedogonyat.mp3",
+      "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/nasnedogonyat.jpg"
     }
   ]
 }
