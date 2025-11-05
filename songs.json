@@ -59,6 +59,12 @@
       "artist": "Roy Bee",
       "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/kissmeagain.mp3",
       "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/kissmeagain.jpg"
+    },
+    
+      "title": "Мы Пидоры",
+      "artist": "Tomasz Pieniadz",
+      "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/pidori.mp3",
+      "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/pidori.jpg"
     }
   ]
 }
