@@ -77,6 +77,12 @@
       "artist": "DJ SPIZDIL",
       "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/nasnedogonyat.mp3",
       "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/nasnedogonyat.jpg"
+    },
+    {
+      "title": "We Fell Apart (Slowed)",
+      "artist": "ANGUISH",
+      "url": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/music/wefallapart.mp3",
+      "cover": "https://raw.githubusercontent.com/NightCraft666/NASA-PLAYER/refs/heads/main/covers/wefallapart.jpg"
     }
   ]
 }
